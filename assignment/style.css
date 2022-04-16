@@ -6,9 +6,20 @@ header {
 .info{
     border: 1px solid black;
     text-align: center;
+    background-color: gray;
+}
+
+img{
+    border: 1px solid black;
+    border-radius: 50%;
 }
 
 h2{
     background-color: darkorange;
     color: aqua;
+}
+
+h3{
+    background-color: gold;
+    color: silver;
 }
